@@ -13,7 +13,7 @@
 			<artifactId>junit-dep</artifactId>
 			<version>4.10</version>
 		</dependency>
-
+		
 		<dependency>
 			<groupId>javax.servlet</groupId>
 			<artifactId>javax.servlet-api</artifactId>
@@ -135,7 +135,7 @@
 	</dependencies>
 
 	<properties>
-		<spring.version>4.0.5.RELEASE</spring.version>
+		<spring.version>4.0.3.RELEASE</spring.version>
 		<activiti.version>5.16.2</activiti.version>
 	</properties>
 
