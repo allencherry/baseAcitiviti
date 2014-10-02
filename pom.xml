@@ -13,7 +13,7 @@
 			<artifactId>junit-dep</artifactId>
 			<version>4.10</version>
 		</dependency>
-		
+
 		<dependency>
 			<groupId>javax.servlet</groupId>
 			<artifactId>javax.servlet-api</artifactId>
@@ -96,7 +96,7 @@
 			<artifactId>ojdbc14</artifactId>
 			<version>10.2.0.4.0</version>
 		</dependency>
-		
+
 		<!-- hibernate -->
 		<dependency>
 			<groupId>org.hibernate</groupId>
